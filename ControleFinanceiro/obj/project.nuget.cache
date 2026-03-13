@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eu2+cTRgI9w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acksel\\Desktop\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acksel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Acksel\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.3\\microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512",
+    "C:\\Users\\Acksel\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
+    "C:\\Users\\Acksel\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Acksel\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
